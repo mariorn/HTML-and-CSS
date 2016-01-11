@@ -1,0 +1,170 @@
+
+
+a:visited {
+    color: #609;
+}
+
+a {
+    color: #1a0dab;
+    text-decoration: none;
+    cursor: auto;
+}
+
+body, td, a, p {
+    font-family: arial,sans-serif;
+}
+
+header a{
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #000;
+    opacity: .75;
+}
+
+header a:hover{
+	text-decoration: underline;
+}
+
+header p{
+    outline: none;
+    vertical-align: middle;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #000;
+	display: inline-block;
+	opacity: .55;
+}
+
+
+header{
+	width: 100%;
+	background-color: white;
+	height: 40px;
+  	font-size: 13px;
+  	text-align: right;
+	float:right;
+	list-style: none;
+}
+
+.principalContainer{
+	width: 1200px;
+	height: 510px;
+	background: white;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.searchContainer{
+	text-align: center;
+
+	height: 30px;
+}
+
+.id_google{
+	font-size: 80px;
+	text-align: center;
+	display: inline-block;
+}
+
+aside{
+	display: inline-block;
+    line-height: 28px;
+    font-size: small;
+    margin-bottom: 24px;
+    text-align: center;
+    cursor: auto;
+}
+
+aside a{
+    margin-right: 3px;
+    margin-left: 3px;
+}
+aside p{
+	display: inline-block;
+	color: green;
+}
+
+aside a:hover{
+	text-decoration: underline;
+}
+
+.borde {
+	border: #DCDCDC 1px solid;
+	width:600px;
+	height:30px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: -60px;
+}
+.borde:hover{
+	border: grey 1px solid;
+}
+
+.borde img{
+	margin-top: -20px;
+}
+
+.botones p{
+	text-align: center;
+	display: inline-block;
+	background-color: #F4F4F4;
+	border: white 1px solid;
+	font: 15px BlinkMacSystemFont;
+  	margin-left: 3px;
+  	margin-right: 3px;
+  	padding-left: 15px;
+  	padding-right: 15px;
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	border-radius: 3px;
+}
+
+.botones p:hover{
+	border: #DCDCDC 1px solid;
+}
+
+footer{
+	display: inline-block;
+	width: 100%;
+	background-color: #F4F4F4;
+	height: 40px;
+	font-size: small;
+}
+
+.fizq{
+	display: inline-block;
+	margin-top: 10px;
+	float: left;
+}
+.fizq a{
+    margin-right: 3px;
+    margin-left: 3px;
+    color: #666;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fizq a:hover{
+	text-decoration: underline;
+}
+
+.fder{
+	display: inline-block;
+	margin-top: 10px;
+	float: right;
+}
+.fder a{
+    margin-right: 3px;
+    margin-left: 3px;
+    color: #666;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fder a:hover{
+	text-decoration: underline;
+}
